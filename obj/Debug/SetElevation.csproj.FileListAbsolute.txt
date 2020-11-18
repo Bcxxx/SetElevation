@@ -1,0 +1,6 @@
+C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.csprojAssemblyReference.cache
+C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.csproj.CoreCompileInputs.cache
+C:\Users\PeterMihok\source\repos\SetElevation\bin\Debug\SetElevation.dll
+C:\Users\PeterMihok\source\repos\SetElevation\bin\Debug\SetElevation.pdb
+C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.dll
+C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.pdb

@@ -55,7 +55,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "C:\Users\PeterMihok\AppData\Roaming\Autodesk\Revit\Addins\2021"
-copy "C:\Users\PeterMihok\source\repos\SetElevation\SetElevation.addin" "C:\Users\PeterMihok\AppData\Roaming\Autodesk\Revit\Addins\2021"</PostBuildEvent>
+    <PostBuildEvent>copy "$(TargetPath)" "C:\Users\pete288x\AppData\Roaming\Autodesk\Revit\Addins\2020"
+copy "C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\SetElevation.addin" "C:\Users\pete288x\AppData\Roaming\Autodesk\Revit\Addins\2020"</PostBuildEvent>
   </PropertyGroup>
 </Project>

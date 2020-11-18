@@ -4,3 +4,8 @@ C:\Users\PeterMihok\source\repos\SetElevation\bin\Debug\SetElevation.dll
 C:\Users\PeterMihok\source\repos\SetElevation\bin\Debug\SetElevation.pdb
 C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.dll
 C:\Users\PeterMihok\source\repos\SetElevation\obj\Debug\SetElevation.pdb
+C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\bin\Debug\SetElevation.dll
+C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\bin\Debug\SetElevation.pdb
+C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\obj\Debug\SetElevation.csprojAssemblyReference.cache
+C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\obj\Debug\SetElevation.dll
+C:\PeterMihokDocuments\PrivateWork\Addin\SetElevation\obj\Debug\SetElevation.pdb
